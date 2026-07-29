@@ -54,14 +54,23 @@ Both variables are exposed as sliders. Presets: Beat & Raise ($0.87, 26×), Beat
 
 Every number carries a source. Primary SEC filings and the company transcript first, market data and consensus second, commentary last and marked as such. Figures that are my own arithmetic are tagged **computed** inline. Where sources conflict, **both values are shown and the conflict is disclosed** rather than silently resolved.
 
-### Two corrections made during research
+### Corrections made during research, resolved against official exchange data
 
-1. **SOFI is not "down 50% from its 2026 highs."** The $32.73 peak was set in **November 2025**. The stock is down roughly **48% from that record** and roughly **37% year to date**. Several outlets have the framing wrong.
-2. **LendingClub is not in the peer table.** It rebranded to **Happen, Inc. (HAPN)** in June 2026, so any comp set still showing "LC / LendingClub" is stale.
+Price and event figures on this page are computed from **Nasdaq official historical closes** and **SEC filings**, not from media summaries — which turned out to matter, because the media figures don't reconcile.
+
+1. **SOFI is not "down 50% from its 2026 highs."** Wrong twice over. The **2026 high was $29.86 intraday on January 5**, making the drawdown **43.5%**. The $32.73 peak behind the ~48% figure was set **November 12, 2025**.
+2. **Year to date is −35.5%**, computed from official closes of $26.18 (Dec 31, 2025) and $16.88 (Jul 27, 2026). Published figures range from −32% to −37.13% and none reconcile.
+3. **The Q1 earnings reaction was −15.4%**, from $18.36 to $15.525 — larger than every published figure (−12%, −12.31%, −13%, −14%).
+4. **The short report barely moved the stock.** On March 17, SOFI closed down **1.5%** ($17.63 → $17.37). By then it was *already* down **33.65% YTD** — which computes exactly from official closes and matches the figure Muddy Waters itself cited. **The earnings reaction was roughly 10× the short-report reaction.**
+5. **LendingClub is not in the peer table.** It rebranded to **Happen, Inc. (HAPN)** in June 2026, so any comp set still showing "LC" is stale.
+
+### Litigation status: a verified negative, not an unchecked gap
+
+The **Q1 2026 Form 10-Q, filed May 7** — seven weeks after the short report — contains no securities class action, no derivative action, no SEC investigation, no subpoena, no consent order and no restatement. Contingencies language is boilerplate. The filing reflects facts through May 7.
 
 ### Known gaps, stated rather than papered over
 
-The whisper number could not be verified. Post-earnings reactions before Q4 2025 could not be sourced and are left blank rather than estimated. Analyst consensus differs materially by vendor — average targets from **$20.58 to $22.83**, high targets **$30 to $35**, across 18 to 24 analysts — though every vendor agrees the rating is **Hold**.
+The whisper number could not be verified. Post-earnings reactions before Q4 2025 are left blank rather than estimated. **SoFi is not an S&P 500 constituent**, so any anticipated-inclusion argument has no basis. Analyst consensus differs materially by vendor — average targets from **$20.58 to $22.83**, high targets **$30 to $35**, across 18 to 24 analysts — though every vendor agrees the rating is **Hold**.
 
 ---
 
